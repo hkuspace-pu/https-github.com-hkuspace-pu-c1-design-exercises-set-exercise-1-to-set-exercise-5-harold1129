@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="guest_info_test">
+        <item>First Name: Gary</item>
+        <item>Last Name: Watson</item>
+        <item>Email: gary.watson@gmail.com</item>
+        <item>Phone: +44 1752 654321</item>
+    </string-array>
+</resources>
